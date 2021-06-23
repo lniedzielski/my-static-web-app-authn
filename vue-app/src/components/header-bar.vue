@@ -13,7 +13,6 @@ export default {
       class="navbar has-background-dark is-dark"
       role="navigation"
       aria-label="main navigation"
-    >
-    </nav>
+    ></nav>
   </header>
 </template>
